@@ -7,11 +7,11 @@
 ***Item 1: Business Plan*** 
  
 * *A. Company Name of Fictitious Company (make it a name you would like --treat this like a real startup). Remember this must be a tech company.* *
-* 
+
 O A S I S     
      
 * *B. Long-Term Vision Statement -
-* 
+
 1. What are the goals?
 Our goal is to give people the best experience when using our VR headsets. We have developed a VR headset with the latest technology, cameras, sensors and software to give our customers a flawless experience when using Oasis VR headsets.
 2. Where did your idea come from ( a class, a job, a need)?
@@ -23,7 +23,7 @@ Oasis is not a big company by any means. But we strive to be a company that is w
 We want to inspire new generations. Teach them that with persistence, determination and hard work we can reach our goals. To show them that failure is not something to be ashamed of, but to learn from. We want to teach the younger generations how to build a better community and a better future. 
  
 * *C. External opportunities that exist -
-*
+
 - Opportunities like co-marketing (i.e. how your new headphones work great with nike shoes for a great workout)
 We can say that we partnered up with google to bring good camera quality and video for our VR headsets and easy to use features with google assistance. 
 - Who else can we partner up to help with our product?
@@ -53,7 +53,7 @@ We can go to the “API World 2022 Hackathon” that will happen in October of t
 Give REAL ideas not fake ones. Mention real companies and provide links to their homepage.   For venture capital (VC) give websites and discuss why THAT VC would be interested in YOUR startup (they specialize in human computing and your headphones would fit the profile of their past investments),  Special conferences & how they fit with YOUR product/service and give URL
  
 * *D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it relates to the formation of this startup tech company. Read this for a more detailed discussion and example.
-*
+
 Daniel Leal, is one of the software developers in the Oasis. He is a student at Cal State East bay with experience on C++ and Java. He has also taken a couple of courses on arduino systems in order to explore how sensors interact with the real world and learn what we can do with the technology that we have today. He has studied abroad and is an important part of Oasis. Daniel is a dedicated individual that works hard with other software developers to program, test and develop an easy to use interface for our VR headsets.
 
 Priya Gundapu, is another software developer in the Oasis company. She is a student at Cal State East Bay, and has experience in Python, Java and Ruby. She has also taken courses on machine learning and robotic process automation to better learn how we can help improve our generation’s technology. She is an important part of OASIS. She is a dedicated individual who can easily work with other software developers to not only program, but also develop and test our VR headsets.
