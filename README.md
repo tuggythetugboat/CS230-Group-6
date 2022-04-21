@@ -88,7 +88,7 @@ Analys what the public is saying about our company and products.
 One of the main things that differentiates us from other companies is our hard work to provide good quality products at an affordable price. We also want to give people what they want. So we are always hearing suggestions on how we can improve our products. 
 F. Slogan - summary in 6 words or less the company's goals/objectives (here are some I have used for different research projects/labs: bringing mobility to the low vision, human-centric vision solving real problems).
 
-Join the Community, Find Your Oasis ???
+***Join the Community, Find Your Oasis***  
 
  
  
