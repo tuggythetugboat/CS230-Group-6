@@ -97,7 +97,7 @@ One of the main things that differentiates us from other companies is our hard w
 
 **F. Slogan - summary in 6 words or less the company's goals/objectives (here are some I have used for different research projects/labs: bringing mobility to the low vision, human-centric vision solving real problems).**
 
-***Join the Community, Find Your Oasis***  
+* *Join the Community, Find Your Oasis* * 
 
  
  
