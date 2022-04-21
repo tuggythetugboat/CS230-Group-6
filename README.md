@@ -1,8 +1,13 @@
 # CS230-Group-6
 
+
+
+
+
 ***Item 1: Business Plan*** 
  
 A. Company Name of Fictitious Company (make it a name you would like --treat this like a real startup). Remember this must be a tech company.
+
 O A S I S     
      
 B. Long-Term Vision Statement -
@@ -15,8 +20,6 @@ What is our passion?
 Oasis is not a big company by any means. But we strive to be a company that is willing to listen and work hard to give people what they want. While also working on other important fields and subjects. If we want a better future, we also have to take care of our planet. Which is why we are constantly finding ways to bring our customers new, planet friendly products. And what is the best thing? We do include chargers in our products. 
  What inspires us?
 We want to inspire new generations. Teach them that with persistence, determination and hard work we can reach our goals. To show them that failure is not something to be ashamed of, but to learn from. We want to teach the younger generations how to build a better community and a better future. 
-
-
  
 C. External opportunities that exist -
  
@@ -49,23 +52,14 @@ We can go to the “API World 2022 Hackathon” that will happen in October of t
 Give REAL ideas not fake ones. Mention real companies and provide links to their homepage.   For venture capital (VC) give websites and discuss why THAT VC would be interested in YOUR startup (they specialize in human computing and your headphones would fit the profile of their past investments),  Special conferences & how they fit with YOUR product/service and give URL
  
 D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it relates to the formation of this startup tech company. Read this for a more detailed discussion and example.
-Daniel Leal, is one of the software developers in the Oasis. He is a student at Cal State East bay with experience on C++ and Java. He has also taken a couple of courses on arduino systems in order to explore how sensors interact with the real world and learn what we can do with the technology that we have today. He has studied abroad and is an important part of Oasis. Daniel is a dedicated individual that works hard with other software developers to program, test and develop an easy to use interface for our VR headsets. 
-
+Daniel Leal, is one of the software developers in the Oasis. He is a student at Cal State East bay with experience on C++ and Java. He has also taken a couple of courses on arduino systems in order to explore how sensors interact with the real world and learn what we can do with the technology that we have today. He has studied abroad and is an important part of Oasis. Daniel is a dedicated individual that works hard with other software developers to program, test and develop an easy to use interface for our VR headsets.
 
 Priya Gundapu, is another software developer in the Oasis company. She is a student at Cal State East Bay, and has experience in Python, Java and Ruby. She has also taken courses on machine learning and robotic process automation to better learn how we can help improve our generation’s technology. She is an important part of OASIS. She is a dedicated individual who can easily work with other software developers to not only program, but also develop and test our VR headsets.
 
 Colton Baga is another software developer at Oasis. He is also a student at Cal State East Bay and has experience with C++, Python, and some game design software. His job is to help research and implement new features for our VR headsets. These features will slowly roll out to the consumers via updates on our Oasis VR headsets. 
 
-
-
-
-
 Doris Wong is a software developer at Oasis. She received her bachelor’s degree in computer science at California State East Bay. Doris brings her knowledge developing C/C++ code for Arduino, Teensy, and Pi to fully leverage the resources on headsets by creating software that more efficiently utilizes the flow of data in chipsets. Doris is dedicated to creating a human optic system delivering an immersive experience with high visual headsets.						
- 
- 
 
-
- 
 E. Strategy: for next 3 to 5 years. In addition, please share at least one case studystudy of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.
 - Key milestones/checkpoints described by OKRs (OBJECTIVES AND KEY RESULTS) (read here about OKRS w/ Examples) as it relates to the tech product/service your company will offer.
 Our company’s key milestones and checkpoints 
@@ -97,7 +91,12 @@ F. Slogan - summary in 6 words or less the company's goals/objectives (here are 
 Join the Community, Find Your Oasis ???
 
  
-Item 2: Cultural Policy - (minimum 150 words)
+ 
+ 
+ 
+ 
+***Item 2: Cultural Policy*** 
+
 - A. Core Values - Give core values of the company answering questions: How do you want to be thought off? What are the details of the core values of the company?
 Some of Oasis’ core values include:
 Becoming an innovative and technologically advanced company. We strive to be the best at what we do and we desire to be seen as the leader of the Virtual Reality Industry. 
@@ -118,7 +117,7 @@ Teamwork
 
 
 
-Item 3: Ethics Policy (minimum 500 words)
+***Item 3: Ethics Policy*** 
 
 - Core Items - Enumerate the core items in your ethics policy and give details of each policy item and its meaning.
 Key core items from our company:
@@ -139,7 +138,11 @@ Daniel Alegre: Daniel is the Chief Operating Officer of Activision (video game  
 Sam Houser: Sam Houser is a British video game producer. He is the co-founder and president of Rockstar Games and one of the creative driving forces behind the games in the Grand Theft Auto franchise. Just like Daniel Alegre, we would like to work together with Sam Houser in order to create video games that our customers would find exciting and would like to play.
 
 
-Item 4: Experimentation and Priorities 
+
+
+
+
+***Item 4: Experimentation and Priorities*** 
 
  Experimentation (to test OKRs of Strategy) - restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas.EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional...think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
 Oasis will have three major keystones in meeting our product protocols the first 3-5 years; announcement of product, double sales by June, triple by the following June and make 100 collaborations with companies, social media etc. For the first major keystone we will do market research and learn about our consumers in order to create a valuable solution. We will pitch to our stakeholders, plan our market strategy and create promotional content such as Facebook, Instagram advertising and Google My Business. 
@@ -149,28 +152,6 @@ To create our prototype with the existing fund Oasis has we will firstly sketch 
  
 Priorities- Give which experiment/hypothesis you will test first --as it is a high priority
 Within our prototype launch and consumer feedback, creating our prototype of most used topics with the VR and receiving data from local universities we can see how we can improve our presales. This experiment is a high priority since consumers will stop using Oasis if they find the product not useful in their daily lives. By collecting from universities, we can retrieve data from teens to adults. 
-
-
-
-Item 5 : YouTube Presentation (see below requirement) --give URL
-
-A. Presentation YouTube - create a Youtube (accessible) presentation (<15 minutes) that goes over in detail your GitHub wiki-based documentation. The wiki must be clearly readable in your video and your voice must be clear and audible. You should discuss ALL items 1-4 in your document.
-
-B. Presentation Lightning Round Presentations In Person (see deliverables below for date and time): your group will have approximately 5 minutes to do a speed presentation where you will discuss:
-
-ITEM 1- Company Name, Vision, Introduce your Team [done]
-Discussion ONE point of your Ethics Policy (ITEM 3)
-Discuss ONE point of your Cultural Policies (ITEM 2)
-Discuss one of your Ethics Board Members(ITEM 3). [done]
-
-This in-person presentation will be recorded for attendance. It is critical you come so you can hear about other presentations. It will help you along with the Youtube presentation to evaluate other groups' work (remember this is a peer evaluated project). NOTE: it is up to you to choose which one item of the ethics policy, one item of cultural policy and which one ethics board member you will discuss.
-
-------------------------------------URL--------------------------------
-
-WASD
-
- 
- 
 
 
 
