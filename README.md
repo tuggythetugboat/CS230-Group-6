@@ -75,18 +75,18 @@ Result: based off of the preorder numbers and potential feedback, we can figure 
 
 Objective: Sell double the number of preorders by the end of the year.
 
--Key results: check the number of presales and sell the same amount by june. 
--Key Results: be close to our goal by christmas. If not, reach after christmas. 
--Results: We found that selling double the pre orders during the holiday time, like around Christmas, has not only increased potential customer exposure to our product, but also helped us reach our goal to double the number of preorders for out product by the end of the year 
+- Key results: check the number of presales and sell the same amount by june. 
+- Key Results: be close to our goal by christmas. If not, reach after christmas. 
+- Results: We found that selling double the pre orders during the holiday time, like around Christmas, has not only increased potential customer exposure to our product, but also helped us reach our goal to double the number of preorders for out product by the end of the year 
 
 Objective: triple the number of  sales next year. 
 
--Key results: monitor how many products we have sold and the amount of demand we get throughout the year. And go half way through our objective by june. 
+- Key results: monitor how many products we have sold and the amount of demand we get throughout the year. And go half way through our objective by june. 
 -Result: We were able to push the sales by a good margin on certain important dates like black friday, christmas and other holidays. We were able to reach our goal of tripling the sales of last year because of the exposure our product has been getting. 
 
 Objective: make 100 collaborations with companies, social media starts, actors, and other important people by the end of the year. 
 
--Key Result: Reach out and see who is willing to collaborate with us/ Have at least 50 collaborations by July/ reach our goal by christmas. 
+- Key Result: Reach out and see who is willing to collaborate with us/ Have at least 50 collaborations by July/ reach our goal by christmas. 
 -Results: Reaching out different actors, companies, social media stars, etc. has helped us reach more customers, as product placement with the variety of companies and people that we’ve reached out to 
 
 - Experiments you will create to measure the success of your OKRs
