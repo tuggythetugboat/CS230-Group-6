@@ -73,15 +73,20 @@ Key results: see how many people have pre order our product
 Result: based off of the preorder numbers and potential feedback, we can figure out if we should continue the product or make major updates to the product
 
 Objective: Sell double the number of preorders by the end of the year.
+
 Key results: check the number of presales and sell the same amount by june. 
 Key Results: be close to our goal by christmas. If not, reach after christmas. 
 Results: We found that selling double the pre orders during the holiday time, like around Christmas, has not only increased potential customer exposure to our product, but also helped us reach our goal to double the number of preorders for out product by the end of the year 
+
 Objective: triple the number of  sales next year. 
+
 Key results: monitor how many products we have sold and the amount of demand we get throughout the year. And go half way through our objective by june. 
 Result: We were able to push the sales by a good margin on certain important dates like black friday, christmas and other holidays. We were able to reach our goal of tripling the sales of last year because of the exposure our product has been getting. 
+
 Objective: make 100 collaborations with companies, social media starts, actors, and other important people by the end of the year. 
 Key Result: Reach out and see who is willing to collaborate with us/ Have at least 50 collaborations by July/ reach our goal by christmas. 
 Results: Reaching out different actors, companies, social media stars, etc. has helped us reach more customers, as product placement with the variety of companies and people that we’ve reached out to 
+
 - Experiments you will create to measure the success of your OKRs
 Some experiments that will help us measure the success of our OKRs  are: 
 Make surveys online to see how many people know about our product. 
@@ -101,14 +106,18 @@ One of the main things that differentiates us from other companies is our hard w
  
 ***Item 2: Cultural Policy*** 
 
-- A. Core Values - Give core values of the company answering questions: How do you want to be thought off? What are the details of the core values of the company?
-Some of Oasis’ core values include:
+* *A. Core Values - Give core values of the company answering questions: How do you want to be thought off? What are the details of the core values of the company?
+Some of Oasis’ core values include:* *
+
 Becoming an innovative and technologically advanced company. We strive to be the best at what we do and we desire to be seen as the leader of the Virtual Reality Industry. 
 We also would like our customers to be involved in our development of new features, whether it be things that could be implemented in updates or even whole new headsets. To do this we would take surveys and be involved in the community in order to learn the wants of VR users. 
-- B. Motivation - Give an understanding of the desired company culture by answering: What do you love? What do you fear?
+
+* *B. Motivation - Give an understanding of the desired company culture by answering: What do you love? What do you fear?* *
+
 Our company loves being a part of the community. We strive to be one with our customers and not just another big company that only aims to make the most sales as possible. We also love gaming and VR of course. This means that our headsets are made with the consumer's wants and needs in mind. Oasis Headsets are made by gamers, for gamers. 
 
-- C. Summary: summary in 6 words or less the company's culture
+* *C. Summary: summary in 6 words or less the company's culture* *
+
 Oasis Cultural summary:
 Customer satisfaction
 Innovative
@@ -127,19 +136,20 @@ Teamwork
 Key core items from our company:
 Honesty: We encourage all our employees to be honest about their work and bring their best everyday to work in order to make work a valuable and enriching experience. We also work very hard to be honest with our customers because without you. We wouldn't be where we are today. We are always aiming to be honest and not lie to you. Because we believe trust is one of the main values we need to have. 
 
-Transparency: One cannot achieve to be honest without also being transparent. We don't like to hide things from our customers. We will always aim to be as transparent as possible. If there is something you need to know about our products, we will tell you. Our employees work very hard to bring you the best experience when it comes to virtual reality. We don't like to hide things from our customers. Our company is built for the people, by the people. 
+-Transparency: One cannot achieve to be honest without also being transparent. We don't like to hide things from our customers. We will always aim to be as transparent as possible. If there is something you need to know about our products, we will tell you. Our employees work very hard to bring you the best experience when it comes to virtual reality. We don't like to hide things from our customers. Our company is built for the people, by the people. 
 
-Growth: We are always looking for things we can do as a company to grow and experiment with different technologies in order to create innovative products that the people will enjoy. We work very hard everyday in order to continue pushing this technology forward and develop new strategies in order to create something new. We may encounter challenges when trying to expand our knowledge on what is possible, but any challenge we may come across will help us learn and teach us that if we are persistent and work hard, we are able to achieve things no one has achieved. Because expanding our minds today will make tomorrow’s problems easier to solve. 
+-Growth: We are always looking for things we can do as a company to grow and experiment with different technologies in order to create innovative products that the people will enjoy. We work very hard everyday in order to continue pushing this technology forward and develop new strategies in order to create something new. We may encounter challenges when trying to expand our knowledge on what is possible, but any challenge we may come across will help us learn and teach us that if we are persistent and work hard, we are able to achieve things no one has achieved. Because expanding our minds today will make tomorrow’s problems easier to solve. 
 
-Respect: We like to have a respectful work environment. We encourage everyone to treat others how they would like to be treated. Respect is being able to treat others with empathy, positivity, peace and trust. As a company, we do our best to be respectful and inclusive towards everyone. 
+-Respect: We like to have a respectful work environment. We encourage everyone to treat others how they would like to be treated. Respect is being able to treat others with empathy, positivity, peace and trust. As a company, we do our best to be respectful and inclusive towards everyone. 
 
 
-- Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.
-Michael Antonov: Michael was the co-founder and Chief Software Architect at Oculus, which became a part of Facebook in 2014. At Oculus, Michael led the software team for Oculus Rift DK1 and DK2, including the rendering runtime, game engine integrations and public APIs of the Oculus SDK. We would like Michael Antonov on our board in order to work together and make a VR headset with his knowledge on creating what today is Oculus.
+* *Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.* *
 
-Daniel Alegre: Daniel is the Chief Operating Officer of Activision (video game  publisher) since April 2020. We would like to have him on our board to work together with other video game developers and together create video games that are compatible with our VR system. 
+- Michael Antonov: Michael was the co-founder and Chief Software Architect at Oculus, which became a part of Facebook in 2014. At Oculus, Michael led the software team for Oculus Rift DK1 and DK2, including the rendering runtime, game engine integrations and public APIs of the Oculus SDK. We would like Michael Antonov on our board in order to work together and make a VR headset with his knowledge on creating what today is Oculus.
 
-Sam Houser: Sam Houser is a British video game producer. He is the co-founder and president of Rockstar Games and one of the creative driving forces behind the games in the Grand Theft Auto franchise. Just like Daniel Alegre, we would like to work together with Sam Houser in order to create video games that our customers would find exciting and would like to play.
+- Daniel Alegre: Daniel is the Chief Operating Officer of Activision (video game  publisher) since April 2020. We would like to have him on our board to work together with other video game developers and together create video games that are compatible with our VR system. 
+
+- Sam Houser: Sam Houser is a British video game producer. He is the co-founder and president of Rockstar Games and one of the creative driving forces behind the games in the Grand Theft Auto franchise. Just like Daniel Alegre, we would like to work together with Sam Houser in order to create video games that our customers would find exciting and would like to play.
 
 
 
@@ -148,13 +158,15 @@ Sam Houser: Sam Houser is a British video game producer. He is the co-founder an
 
 ***Item 4: Experimentation and Priorities*** 
 
- Experimentation (to test OKRs of Strategy) - restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas.EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional...think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
-Oasis will have three major keystones in meeting our product protocols the first 3-5 years; announcement of product, double sales by June, triple by the following June and make 100 collaborations with companies, social media etc. For the first major keystone we will do market research and learn about our consumers in order to create a valuable solution. We will pitch to our stakeholders, plan our market strategy and create promotional content such as Facebook, Instagram advertising and Google My Business. 
+Experimentation (to test OKRs of Strategy) - restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas.EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional...think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
+
+- Oasis will have three major keystones in meeting our product protocols the first 3-5 years; announcement of product, double sales by June, triple by the following June and make 100 collaborations with companies, social media etc. For the first major keystone we will do market research and learn about our consumers in order to create a valuable solution. We will pitch to our stakeholders, plan our market strategy and create promotional content such as Facebook, Instagram advertising and Google My Business. 
  
-After planning, we will officially launch Oasis. Based on the consumer feedback and amount of pre-orders Oasis team will see what needs to be improved to fit consumer needs. Oasis’ second objective is to double the amount of pre-sales by June. Basing off our previous pre-sale launch we will strategize around what went well and needs to be altered. The third objective is to triple our product pre-sales by the following June. And lastly have 100 collaborations with social media, companies such as Meta, Playstation etc. 
-To create our prototype with the existing fund Oasis has we will firstly sketch our product details on paper. Mocking up what can be seen through our VR, buttons and how our in screen transitions. Not only will this save money on chip components and other important parts we need for our VR but this prototype will be faster than putting together a product. We can also use an app called Balsamiq to create our prototype. Through this app we can save funds while managing to gain more funds in creating a more advanced prototype and be able to receive consumer feedback quickly. Within creating these prototypes Oasis will hypothesize and test what personal relevance will use our VR such as sleep help or gaming. From there we can change the personal relevance to age group or specific of what can be touched or moved when using the VR. After creating these prototypes, we can collect data at local universities or schools by both the  students and faculty. With the data Oasis can see our next steps in creating a better product. 
+- After planning, we will officially launch Oasis. Based on the consumer feedback and amount of pre-orders Oasis team will see what needs to be improved to fit consumer needs. Oasis’ second objective is to double the amount of pre-sales by June. Basing off our previous pre-sale launch we will strategize around what went well and needs to be altered. The third objective is to triple our product pre-sales by the following June. And lastly have 100 collaborations with social media, companies such as Meta, Playstation etc. 
+
+- To create our prototype with the existing fund Oasis has we will firstly sketch our product details on paper. Mocking up what can be seen through our VR, buttons and how our in screen transitions. Not only will this save money on chip components and other important parts we need for our VR but this prototype will be faster than putting together a product. We can also use an app called Balsamiq to create our prototype. Through this app we can save funds while managing to gain more funds in creating a more advanced prototype and be able to receive consumer feedback quickly. Within creating these prototypes Oasis will hypothesize and test what personal relevance will use our VR such as sleep help or gaming. From there we can change the personal relevance to age group or specific of what can be touched or moved when using the VR. After creating these prototypes, we can collect data at local universities or schools by both the  students and faculty. With the data Oasis can see our next steps in creating a better product. 
  
-Priorities- Give which experiment/hypothesis you will test first --as it is a high priority
+- Priorities- Give which experiment/hypothesis you will test first --as it is a high priority
 Within our prototype launch and consumer feedback, creating our prototype of most used topics with the VR and receiving data from local universities we can see how we can improve our presales. This experiment is a high priority since consumers will stop using Oasis if they find the product not useful in their daily lives. By collecting from universities, we can retrieve data from teens to adults. 
 
 
