@@ -10,7 +10,7 @@
 
 O A S I S     
      
-* *B. Long-Term Vision Statement -
+* *B. Long-Term Vision Statement* *
 
 1. What are the goals?
 Our goal is to give people the best experience when using our VR headsets. We have developed a VR headset with the latest technology, cameras, sensors and software to give our customers a flawless experience when using Oasis VR headsets.
@@ -22,7 +22,7 @@ Oasis is not a big company by any means. But we strive to be a company that is w
  What inspires us?
 We want to inspire new generations. Teach them that with persistence, determination and hard work we can reach our goals. To show them that failure is not something to be ashamed of, but to learn from. We want to teach the younger generations how to build a better community and a better future. 
  
-* *C. External opportunities that exist -
+* *C. External opportunities that exist* *
 
 - Opportunities like co-marketing (i.e. how your new headphones work great with nike shoes for a great workout)
 We can say that we partnered up with google to bring good camera quality and video for our VR headsets and easy to use features with google assistance. 
@@ -52,7 +52,7 @@ We can go to the “API World 2022 Hackathon” that will happen in October of t
 
 Give REAL ideas not fake ones. Mention real companies and provide links to their homepage.   For venture capital (VC) give websites and discuss why THAT VC would be interested in YOUR startup (they specialize in human computing and your headphones would fit the profile of their past investments),  Special conferences & how they fit with YOUR product/service and give URL
  
-* *D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it relates to the formation of this startup tech company. Read this for a more detailed discussion and example.
+* *D. Teams - Give a picture and a biography for each person in the leadership of your company (which are your groupmates) and discuss their strengths as it relates to the formation of this startup tech company. Read this for a more detailed discussion and example.* *
 
 Daniel Leal, is one of the software developers in the Oasis. He is a student at Cal State East bay with experience on C++ and Java. He has also taken a couple of courses on arduino systems in order to explore how sensors interact with the real world and learn what we can do with the technology that we have today. He has studied abroad and is an important part of Oasis. Daniel is a dedicated individual that works hard with other software developers to program, test and develop an easy to use interface for our VR headsets.
 
@@ -62,8 +62,8 @@ Colton Baga is another software developer at Oasis. He is also a student at Cal 
 
 Doris Wong is a software developer at Oasis. She received her bachelor’s degree in computer science at California State East Bay. Doris brings her knowledge developing C/C++ code for Arduino, Teensy, and Pi to fully leverage the resources on headsets by creating software that more efficiently utilizes the flow of data in chipsets. Doris is dedicated to creating a human optic system delivering an immersive experience with high visual headsets.						
 
-* *E. Strategy: for next 3 to 5 years. In addition, please share at least one case studystudy of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.
-* 
+* *E. Strategy: for next 3 to 5 years. In addition, please share at least one case studystudy of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.* *
+
 - Key milestones/checkpoints described by OKRs (OBJECTIVES AND KEY RESULTS) (read here about OKRS w/ Examples) as it relates to the tech product/service your company will offer.
 Our company’s key milestones and checkpoints 
 - How to measure success metrics/measurables on your OKRs for your company. Read here about OKRs and Examples -- note Later in Item 4 you will describe 
@@ -89,7 +89,8 @@ Look at data on how our sales are going and analyze it.
 Analys what the public is saying about our company and products. 
 - How to differentiate from other companies in the field?
 One of the main things that differentiates us from other companies is our hard work to provide good quality products at an affordable price. We also want to give people what they want. So we are always hearing suggestions on how we can improve our products. 
-F. Slogan - summary in 6 words or less the company's goals/objectives (here are some I have used for different research projects/labs: bringing mobility to the low vision, human-centric vision solving real problems).
+
+* *F. Slogan - summary in 6 words or less the company's goals/objectives (here are some I have used for different research projects/labs: bringing mobility to the low vision, human-centric vision solving real problems).* *
 
 ***Join the Community, Find Your Oasis***  
 
