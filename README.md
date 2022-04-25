@@ -62,7 +62,7 @@ Give REAL ideas not fake ones. Mention real companies and provide links to their
 
 - Doris Wong is a software developer at Oasis. She received her bachelor’s degree in computer science at California State East Bay. Doris brings her knowledge developing C/C++ code for Arduino, Teensy, and Pi to fully leverage the resources on headsets by creating software that more efficiently utilizes the flow of data in chipsets. Doris is dedicated to creating a human optic system delivering an immersive experience with high visual headsets.						
 
-**E. Strategy: for next 3 to 5 years. In addition, please share at least one case studystudy of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.**
+**E. Strategy: for next 3 to 5 years. In addition, please share at least one case study of the closest potential competitor and what you learned from it in terms of maximizing the startup's potential for the future.**
 
 - Key milestones/checkpoints described by OKRs (OBJECTIVES AND KEY RESULTS) (read here about OKRS w/ Examples) as it relates to the tech product/service your company will offer.
 Our company’s key milestones and checkpoints 
