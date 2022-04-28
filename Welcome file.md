@@ -1,12 +1,12 @@
-﻿\# CS230 Group 6
+# CS230 Group 6
 
-\## Item 1: Business Plan
+## Item 1: Business Plan
 
-\### Part A
+### Part A
 
 O A S I S
 
-\### Part B
+### Part B
 
 1. What are the goals? Our goal is to give people the best experience when using our VR headsets. We have developed a VR headset with the latest technology, cameras, sensors and software to give our customers a flawless experience when using Oasis VR headsets.
 
@@ -14,7 +14,7 @@ O A S I S
 
 1. What is the purpose, values and mission? List 2 or 3 key questions that will guide the startup's choices. These should be essential questions that serve as touchstones to direct your company's efforts. For instance, how can the startup have an impact? What engages our passions? What is our passion? Oasis is not a big company by any means. But we strive to be a company that is willing to listen and work hard to give people what they want. While also working on other important fields and subjects. If we want a better future, we also have to take care of our planet. Which is why we are constantly finding ways to bring our customers new, planet friendly products. And what is the best thing? We do include chargers in our products. What inspires us? We want to inspire new generations. Teach them that with persistence, determination and hard work we can reach our goals. To show them that failure is not something to be ashamed of, but to learn from. We want to teach the younger generations how to build a better community and a better future.
 
-\### Part C
+### Part C
 
 - Opportunities like co-marketing (i.e. how your new headphones work great with nike shoes for a great workout) We can say that we partnered up with google to bring good camera quality and video for our VR headsets and easy to use features with google assistance.
 
@@ -25,21 +25,21 @@ O A S I S
 - Crowdfunding:
 
 
-\_\*\*We can create a presentation for our product and present it to the public in order to create exposure and hype for our product and receive donations from those people who are excited for this product.\*\*\_
+_**We can create a presentation for our product and present it to the public in order to create exposure and hype for our product and receive donations from those people who are excited for this product.**_
 
 - Government funds:
 
-\_\*\*We can start our company with the help of government funds. We just have to request one through this website.\*\*\_
+_**We can start our company with the help of government funds. We just have to request one through this website.**_
 
 - Tv shows:
 
-\_\*\*Go to the tv show shark tank to expose our product to the public with the popular tv show as well as try to convince one of the “sharks” to invest in our company and help us make our company successful.\*\*\_
+_**Go to the tv show shark tank to expose our product to the public with the popular tv show as well as try to convince one of the “sharks” to invest in our company and help us make our company successful.**_
 
 - co-development possibilities with other companies (maybe you can make a nike version of your headphones) Partner up with Facebook in order to have a cross-platform. Where people that use our systems can interact with people with facebook’s system and vice versa.
 - Special conferences, trade meetings where you could present your product/service We can go to the E3 exhibition: E3 is a trade event for the video game industry. The Entertainment Software Association organizes and presents E3, which many developers, publishers, hardware and accessory manufacturers use to introduce and advertise upcoming games and game-related merchandise to retailers and to members of the press. (URL:  [https://e3expo.com](https://e3expo.com/))
 - Giveaways, hackathons, promotional deals, etc. We can have pre-order deals when our product is about to come out. We can also have deals during holidays or black friday. We can create a website in order for people to see the specs of our products and enter giveaways if they provide us with their information. We can go to the “API World 2022 Hackathon” that will happen in October of this year. Here is the link:  [https://www.eventbrite.com/e/api-world-2022-hackathon-registration-271405580397](https://www.eventbrite.com/e/api-world-2022-hackathon-registration-271405580397)
 
-\### Part D
+### Part D
 
 - Daniel Leal, is one of the software developers in the Oasis. He is a student at Cal State East bay with experience on C++ and Java. He has also taken a couple of courses on arduino systems in order to explore how sensors interact with the real world and learn what we can do with the technology that we have today. He has studied abroad and is an important part of Oasis. Daniel is a dedicated individual that works hard with other software developers to program, test and develop an easy to use interface for our VR headsets.
 
@@ -50,16 +50,16 @@ O A S I S
 - Doris Wong is a software developer at Oasis. She received her bachelor’s degree in computer science at California State East Bay. Doris brings her knowledge developing C/C++ code for Arduino, Teensy, and Pi to fully leverage the resources on headsets by creating software that more efficiently utilizes the flow of data in chipsets. Doris is dedicated to creating a human optic system delivering an immersive experience with high visual headsets.
 
 
-\### Part E
+### Part E
 
 - Key milestones/checkpoints described by OKRs (OBJECTIVES AND KEY RESULTS) (read here about OKRS w/ Examples) as it relates to the tech product/service your company will offer. Our company’s key milestones and checkpoints
 - How to measure success metrics/measurables on your OKRs for your company. Read here about OKRs and Examples -- note Later in Item 4 you will describe
 
-\_\*\*Objective: Announce our product and get 50,000 pre-orders.\*\*\_
+_**Objective: Announce our product and get 50,000 pre-orders.**_
 
 - Key results: see how many people have pre order our product Result: based off of the preorder numbers and potential feedback, we can figure out if we should continue the product or make major updates to the product
 
-\_\*\*Objective: Sell double the number of preorders by the end of the year.\*\*\_
+_**Objective: Sell double the number of preorders by the end of the year.**_
 
 - Key results: check the number of presales and sell the same amount by June.
 - Key Results: be close to our goal by Christmas. If not, reach after Christmas.
@@ -67,11 +67,11 @@ O A S I S
 
 - Results: We found that selling double the pre orders during the holiday time, like around Christmas, has not only increased potential customer exposure to our product, but also helped us reach our goal to double the number of preorders for out product by the end of the year
 
-\_\*\*Objective: triple the number of sales next year..\*\*\_
+_**Objective: triple the number of sales next year.**_
 
 - Key results: monitor how many products we have sold and the amount of demand we get throughout the year. And go half way through our objective by june. -Result: We were able to push the sales by a good margin on certain important dates like black friday, christmas and other holidays. We were able to reach our goal of tripling the sales of last year because of the exposure our product has been getting.
 
-\_\*\*Objective: make 100 collaborations with companies, social media starts, actors, and other important people by the end of the year..\*\*\_
+_**Objective: make 100 collaborations with companies, social media starts, actors, and other important people by the end of the year.**_
 
 - Key Result: Reach out and see who is willing to collaborate with us/ Have at least 50 collaborations by July/ reach our goal by christmas. -Results: Reaching out different actors, companies, social media stars, etc. has helped us reach more customers, as product placement with the variety of companies and people that we’ve reached out to
 
@@ -80,25 +80,25 @@ O A S I S
 - How to differentiate from other companies in the field? One of the main things that differentiates us from other companies is our hard work to provide good quality products at an affordable price. We also want to give people what they want. So we are always hearing suggestions on how we can improve our products.
 
 
-\### Part F
+### Part F
 
 Join the Community, Find Your Oasis
 
-\## Item 2 Cultural Policy
+## Item 2 Cultural Policy
 
-\### Part A
+### Part A
 
 Becoming an innovative and technologically advanced company. We strive to be the best at what we do and we desire to be seen as the leader of the Virtual Reality Industry. We also would like our customers to be involved in our development of new features, whether it be things that could be implemented in updates or even whole new headsets. To do this we would take surveys and be involved in the community in order to learn the wants of VR users.
 
-\### Part B
+### Part B
 
 Our company loves being a part of the community. We strive to be one with our customers and not just another big company that only aims to make the most sales as possible. We also love gaming and VR of course. This means that our headsets are made with the consumer's wants and needs in mind. Oasis Headsets are made by gamers, for gamers.
 
-\### Part C
+### Part C
 
 Oasis Cultural summary: Customer satisfaction Innovative Secure and transparent Opportunity for advancement Teamwork
 
-\## Item 3 Ethics Policy
+## Item 3 Ethics Policy
 
 - Core Items - Enumerate the core items in your ethics policy and give details of each policy item and its meaning. Key core items from our company: Honesty: We encourage all our employees to be honest about their work and bring their best everyday to work in order to make work a valuable and enriching experience. We also work very hard to be honest with our customers because without you. We wouldn't be where we are today. We are always aiming to be honest and not lie to you. Because we believe trust is one of the main values we need to have.
 
@@ -108,7 +108,7 @@ Oasis Cultural summary: Customer satisfaction Innovative Secure and transparent 
 
 - Respect: We like to have a respectful work environment. We encourage everyone to treat others how they would like to be treated. Respect is being able to treat others with empathy, positivity, peace and trust. As a company, we do our best to be respectful and inclusive towards everyone.
 
-\_\*\*Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.\*\*\_
+_**Board - List 3 real people (maybe tech leaders) that you want on your board, a brief bio AND why you choose them for the board.**_
 
 - Michael Antonov: Michael was the co-founder and Chief Software Architect at Oculus, which became a part of Facebook in 2014. At Oculus, Michael led the software team for Oculus Rift DK1 and DK2, including the rendering runtime, game engine integrations and public APIs of the Oculus SDK. We would like Michael Antonov on our board in order to work together and make a VR headset with his knowledge on creating what today is Oculus.
 
@@ -117,7 +117,7 @@ Oasis Cultural summary: Customer satisfaction Innovative Secure and transparent 
 - Sam Houser: Sam Houser is a British video game producer. He is the co-founder and president of Rockstar Games and one of the creative driving forces behind the games in the Grand Theft Auto franchise. Just like Daniel Alegre, we would like to work together with Sam Houser in order to create video games that our customers would find exciting and would like to play.
 
 
-\## Item 4 Experimentation and Priorities
+## Item 4 Experimentation and Priorities
 
 Experimentation (to test OKRs of Strategy) - restate your Strategy from the Business Proposal in terms of a series of experiments that the company will perform to test ideas. EXPRESS in DETAIL how you can cheaply create prototype (does not have to be functional...think outside box) to use in your experiments. Tell what TOOLS can you use to create your experiments. Tell how can you involve potential customers in your experiments. These Experiments will implement the measurables to see if you are successfully achieving your goals (OKRs)
 
@@ -130,9 +130,9 @@ Experimentation (to test OKRs of Strategy) - restate your Strategy from the Busi
 - Priorities- Give which experiment/hypothesis you will test first --as it is a high priority Within our prototype launch and consumer feedback, creating our prototype of most used topics with the VR and receiving data from local universities we can see how we can improve our presales. This experiment is a high priority since consumers will stop using Oasis if they find the product not useful in their daily lives. By collecting from universities, we can retrieve data from teens to adults.
 
 
-\## Item 5 Experimentation and Priorities
+## Item 5 Experimentation and Priorities
 
-\### Youtube Link
+### Youtube Link
 
 - https://youtu.be/e1N3IRcpcvQ
 
