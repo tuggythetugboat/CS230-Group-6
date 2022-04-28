@@ -1,3 +1,3 @@
-OASIS Repsository
+**OASIS Repsository**
 
-Group Members: Priya Gundapu, Daniel Leal, Colton Baga, Doris Wong
+_Group Members: Priya Gundapu, Daniel Leal, Colton Baga, Doris Wong_
