@@ -1,10 +1,6 @@
 # CS230-Group-6
 
-
-
-
-
-+#***Item 1: Business Plan*** 
+***Item 1: Business Plan*** 
  
 **A. Company Name of Fictitious Company (make it a name you would like --treat this like a real startup). Remember this must be a tech company.**
 
